@@ -1,6 +1,10 @@
 /* write your override styles here */
 
 
+div#wall {
+  display: none;
+}
+
 
 div#wall div.tag-1 {
   display: none;
